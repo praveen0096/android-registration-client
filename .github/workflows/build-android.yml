@@ -1,7 +1,7 @@
 name: Build Android Registration-Client
 
 on:
-  workflow_dispatch:
+  workflow_dispatch :
   push:
     branches:
       - release*
